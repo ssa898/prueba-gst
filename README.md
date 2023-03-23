@@ -1,6 +1,4 @@
 # prueba-gst
 Descripción aquí
 
-Kowalski opciones
-
-Ya no puedo move it move it Moris
+I can´t move it move it anymore Moris
